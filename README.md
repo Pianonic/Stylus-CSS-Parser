@@ -71,10 +71,6 @@ Some potential improvements include:
 - **Improved error handling**: Better detection and reporting of syntax errors.
 - **Optimization**: Enhanced performance and flexibility for various Stylus syntaxes.
 
-## 🏗️ Contributing
-
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
