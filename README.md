@@ -55,10 +55,6 @@ if (mode == 'Dark') {
 
 4. **Enjoy dynamically applying styles based on conditions** 🎉
 
-## 📦 Example Project
-
-You can find an example project in the `examples` directory of this repository, which demonstrates how to use the parser in a real-world scenario.
-
 ## 🤔 Why Use This?
 
 This parser is particularly useful if you want to:
